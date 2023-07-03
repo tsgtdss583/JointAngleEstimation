@@ -9,3 +9,6 @@ Files ending with "...5EC" =========> Pelvis inertial Data
                   "...609" =========> Left shank inertial Data
                   "...5ED" =========> Right foot inertial Data
                   "...5FC" =========> Left foot inertial Data
+
+
+N.B: the SampleTimeFine column in each txt file is exported as a blank space, not in a numerical value.
